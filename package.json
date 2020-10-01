@@ -1,0 +1,11 @@
+{
+  "name": "restaurant_tutorial",
+  "version": "1.0.0",
+  "description": "Restaurant Application Using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Memoarival",
+  "license": "MIT"
+}
